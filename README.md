@@ -82,7 +82,8 @@ The system achieved 97% accuracy and 96.67% sensitivity on the UB dataset.
 ### Confusion Matrix
 Include your confusion matrix graph here:
 
-![Confusion Matrix Placeholder](path/to/confusion_matrix.png)
+![Confusion Matrix](![Confusion Matrix](images/confusion_matrix.jpg)
+
 
 ---
 
