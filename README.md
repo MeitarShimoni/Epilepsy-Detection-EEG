@@ -25,9 +25,4 @@ The band power graph below shows the extracted frequency band powers over time, 
 
 ![Band Power with Seizure Detection](path_to_band_power_boolean_graph.png)
 
-## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-link.git
-   cd your-repo-directory
