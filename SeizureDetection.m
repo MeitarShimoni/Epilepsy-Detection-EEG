@@ -105,7 +105,7 @@ title('Band Power and Boolean Seizure Indication');
 legend('Band Power', 'Seizure Indication');
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%-------------------Visualizations-------------------
 % Path to seizure annotations file
 seizureFile = strrep(edfFile, '.edf', '.seizures');
 seizureTimes = readSeizureFile(seizureFile); % Function to read seizure file
