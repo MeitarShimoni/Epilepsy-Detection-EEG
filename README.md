@@ -32,3 +32,8 @@ The band power graph below shows the extracted frequency band powers over time, 
 - Evaluated performance using metrics such as accuracy, sensitivity, false positive rate, and seizure onset detection delay.
 
 ![Confusion Matrix](images/3.png.png)
+
+### Results
+- Accuracy: 96.38%
+- Sensitivity: 96.15%
+- False Positive Rate: 3.24%
