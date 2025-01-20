@@ -25,4 +25,10 @@ The band power graph below shows the extracted frequency band powers over time, 
 
 ![Band Power with Seizure Detection](images/2.png.png)
 
+## Classification
 
+### RUSBoosted Tree Ensemble
+- Implemented a RUSBoosted Tree Ensemble to handle class imbalance and achieve reliable real-time detection in the CHB-MIT dataset.
+- Evaluated performance using metrics such as accuracy, sensitivity, false positive rate, and seizure onset detection delay.
+
+![Confusion Matrix](images/3.png.png)
