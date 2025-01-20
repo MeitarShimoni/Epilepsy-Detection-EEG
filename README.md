@@ -28,7 +28,7 @@ The band power graph below shows the extracted frequency band powers over time, 
 ## Classification
 
 ### Feature Selection:
-- Standard Deviation (SD): Indicates the signal's variability, helping identify abrupt changes associated with seizures.
+- **Standard Deviation (SD)**: Indicates the signal's variability, helping identify abrupt changes associated with seizures.
 - Band Power (BP): Reflects the energy in specific frequency bands, highlighting abnormal brain activity during seizures.
 - Shannon Entropy (SE): Measures signal randomness, useful for identifying irregular patterns typical of seizure events.
 - Log-Energy Entropy (LE): Quantifies signal complexity and discriminates between seizure and non-seizure states.
