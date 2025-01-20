@@ -37,3 +37,9 @@ The band power graph below shows the extracted frequency band powers over time, 
 - Accuracy: 96.38%
 - Sensitivity: 96.15%
 - False Positive Rate: 3.24%
+
+## Tools and Environment
+- Software: MATLAB 2019b.
+- Libraries/Packages:
+  - Wavelet Transform Toolbox.
+  - MATLAB Classification Learner Toolbox
